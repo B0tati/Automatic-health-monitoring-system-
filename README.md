@@ -25,7 +25,6 @@ Make sure you install these in **Arduino IDE**:
 ## 🔹 Circuit Diagram  
 ![image](https://github.com/user-attachments/assets/c89e37b2-a8b0-47bf-b19f-731d2fb64808)
  
-
 ## 📫 Connect with me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/varshini-horakeri)
-Email Me: varshinichorakeri@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/varshini-horakeri)
+- Email Me: varshinichorakeri@gmail.com
