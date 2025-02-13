@@ -3,7 +3,7 @@
 
 #define I2C_SDA 4       // SDA pin for I2C
 #define I2C_SCL 5       // SCL pin for I2C
-#define ECG_PIN A0       // Analog pin for ECG sensor (GPIO36 is VP)
+#define ECG_PIN A0       // Analog pin for ECG sensor
 
 // Thresholds for abnormal readings
 #define SPO2_LOW 95      // Minimum acceptable SpO2 value
